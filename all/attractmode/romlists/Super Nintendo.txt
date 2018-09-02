@@ -1,0 +1,14 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Castlevania - Dracula X (USA);Castlevania - Dracula X (USA);Super Nintendo;;;;;;;;;;;;;;
+Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA);Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA);Super Nintendo;;;;;;;;;;;;;;
+Legend of Zelda, The - A Link to the Past (USA);Legend of Zelda, The - A Link to the Past (USA);Super Nintendo;;;;;;;;;;;;;;
+Mega Man 7 (USA);Mega Man 7 (USA);Super Nintendo;;;;;;;;;;;;;;
+Mega Man X2 (USA);Mega Man X2 (USA);Super Nintendo;;;;;;;;;;;;;;
+Pitfall - The Mayan Adventure (USA);Pitfall - The Mayan Adventure (USA);Super Nintendo;;;;;;;;;;;;;;
+Street Fighter II (USA);Street Fighter II (USA);Super Nintendo;;;;;;;;;;;;;;
+Super Castlevania IV (USA);Super Castlevania IV (USA);Super Nintendo;;;;;;;;;;;;;;
+Super Ghouls'n Ghosts (USA);Super Ghouls'n Ghosts (USA);Super Nintendo;;;;;;;;;;;;;;
+Super Mario Kart (USA);Super Mario Kart (USA);Super Nintendo;;;;;;;;;;;;;;
+Super Mario World (USA);Super Mario World (USA);Super Nintendo;;;;;;;;;;;;;;
+Super Mario World 2 - Yoshi's Island (USA) (Rev 1);Super Mario World 2 - Yoshi's Island (USA) (Rev 1);Super Nintendo;;;;;;;;;;;;;;
+Super Metroid (Japan, USA);Super Metroid (Japan, USA);Super Nintendo;;;;;;;;;;;;;;
