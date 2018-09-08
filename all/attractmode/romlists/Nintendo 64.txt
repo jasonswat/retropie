@@ -1,7 +1,8 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-Legend of Zelda, The - Ocarina of Time (USA) (Rev B);Legend of Zelda, The - Ocarina of Time (USA) (Rev B);Nintendo 64;;;;;;;;;;;;;;
-#Legend of Zelda, The - Ocarina of Time (USA) (Rev B);Legend of Zelda;Nintendo 64;;;;;;;;;;;;;;
+#Legend of Zelda, The - Ocarina of Time (USA) (Rev B);Legend of Zelda, The - Ocarina of Time (USA) (Rev B);Nintendo 64;;;;;;;;;;;;;;
+Legend of Zelda, The - Ocarina of Time (USA) (Rev B);Legend of Zelda;Nintendo 64;;;;;;;;;;;;;;
 Mario Kart 64 (USA);Mario Kart 64 (USA);Nintendo 64;;;;;;;;;;;;;;
 Star Wars Episode I - Racer (USA);Star Wars Episode I - Racer (USA);Nintendo 64;;;;;;;;;;;;;;
 Super Mario 64 (USA);Super Mario 64 (USA);Nintendo 64;;;;;;;;;;;;;;
 Tony Hawk's Pro Skater 3 (USA);Tony Hawk's Pro Skater 3 (USA);Nintendo 64;;;;;;;;;;;;;;
+Empty;No Title;Nintendo 64;;;;;;;;;;;;;;
